@@ -84,8 +84,8 @@
   <value name="pipeline_option">1</value>
   <null name="originURI"/>
   <value name="modifiable">true</value>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
   <value name="favorite">no</value>
   <value name="deprecated">no</value>
-  <value name="is_visible">False</value>
+  <value name="is_visible">True</value>
 </Values>
